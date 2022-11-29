@@ -27,6 +27,7 @@ technologies like GPS, image processing and AI
 prediction, the detection will be on spot.
 
 ![image](https://user-images.githubusercontent.com/72542171/204486879-5a988d05-e3d3-412f-bd4e-eaad3dcaee4c.png)
+
 Before predicting a forest fire, we need to know 
 some terms like what is a fire and how it works, 
 what are forest fires, what are weather parameters, 
